@@ -31,10 +31,10 @@ class Gato extends Animal {
 }
 
 // Crear un objeto de la clase 'Perro' con nombre 'Fido'
-$perro = new Perro("Fido");
+$perro = new Perro("FIRULAIS");
 
 // Crear un objeto de la clase 'Gato' con nombre 'Whiskers'
-$gato = new Gato("Whiskers");
+$gato = new Gato("MICHI");
 
 // Mostrar el nombre y el sonido del perro
 echo $perro->nombre . ": " . $perro->emitirSonido() . "<br>";
